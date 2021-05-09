@@ -142,3 +142,7 @@ pip 20.2.2 from /usr/local/lib/python3.7/dist-packages/pip (python 3.7)
 | GND   | Ground |
 
 ![](./readme_images/2021-05-09-16-15-14.png)
+
+# LICENSE
+
+[MIT License](https://github.com/coleyon/dht11-raspi-zabbix-sender/blob/main/LICENSE)
